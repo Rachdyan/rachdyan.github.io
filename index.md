@@ -29,11 +29,12 @@ This project provides a Python tool to automate the scraping of raw financial da
 
 ---
 ### IDX Company Disclosure Summarizer
-
-<img src="https://img.shields.io/badge/Python-3776AB.svg?style=plastic&logo=Python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Web%20Scraping-008080.svg?style=plastic&logo=web&logoColor=white" alt="Web Scraping">
-<img src="https://img.shields.io/badge/AI-008080.svg?style=plastic&logo=Power%20Automate&logoColor=white" alt="AI">
-<img src="https://img.shields.io/badge/Natural%20Languange%20Processing-008080.svg?style=plastic&logo=Google%20Finance&logoColor=white" alt="Automation">
+<div>
+    <img src="https://img.shields.io/badge/Python-3776AB.svg?style=plastic&logo=Python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/Web%20Scraping-008080.svg?style=plastic&logo=web&logoColor=white" alt="Web Scraping">
+    <img src="https://img.shields.io/badge/AI-008080.svg?style=plastic&logo=Power%20Automate&logoColor=white" alt="AI">
+    <img src="https://img.shields.io/badge/Natural%20Languange%20Processing-008080.svg?style=plastic&logo=Google%20Finance&logoColor=white" alt="Automation">
+</div>
 
 <div style="line-height:30%;">
     <br>
@@ -53,11 +54,12 @@ This project automates intelligence gathering from the Indonesia Stock Exchange 
 
 ---
 ### Facebook Marketplace Deals Finder
-
+<div>
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=plastic&logo=Python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/Web%20Scraping-008080.svg?style=plastic&logo=web&logoColor=white" alt="Web Scraping">
 <img src="https://img.shields.io/badge/Automation-008080.svg?style=plastic&logo=Google%20Finance&logoColor=white" alt="Automation">
 <img src="https://img.shields.io/badge/Data%20Extraction-008080.svg?style=plastic&logo=Power%20Automate&logoColor=white" alt="Automation">
+</div>
 
 <div style="line-height:30%;">
     <br>
@@ -78,11 +80,12 @@ Tired of manually refreshing Facebook Marketplace and missing out on the best ba
 
 ---
 ### Geoscience Job Hunter Bot
-
+<div>
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=plastic&logo=Python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/Telegram%20Bot-008080.svg?style=plastic&logo=Power%20Automate&logoColor=white" alt="Telegram Bot">
 <img src="https://img.shields.io/badge/Web%20Scraping-008080.svg?style=plastic&logo=web&logoColor=white" alt="Web Scraping">
 <img src="https://img.shields.io/badge/Automation-008080.svg?style=plastic&logo=Google%20Finance&logoColor=white" alt="Automation">
+</div>
 
 <div style="line-height:30%;">
     <br>
@@ -99,10 +102,11 @@ Tired of manually refreshing Facebook Marketplace and missing out on the best ba
 ---
 
 ### Extract Africa Senior High Schools Report From Unstructured PDF
-
+<div>
 <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=plastic&logo=R&logoColor=white" alt="R">
 <img src="https://img.shields.io/badge/PDF%20Parsing-008080.svg?style=plastic&logo=Power%20Automate&logoColor=white" alt="PDF Parsing">
 <img src="https://img.shields.io/badge/Data%20Extraction-008080.svg?style=plastic&logo=web&logoColor=white" alt="Web Scraping">
+</div>
 
 
 <div style="line-height:30%;">
@@ -122,10 +126,11 @@ This R project automates the extraction of data on African Senior High Schools f
 ---
 
 ### USA Labor Condition Application (LCA) Disclosures Data Cleaning
-
+<div>
 <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=plastic&logo=R&logoColor=white" alt="R">
 <img src="https://img.shields.io/badge/Data%20Cleaning-008080.svg?style=plastic&logo=Power%20Automate&logoColor=white" alt="Data Cleaning">
 <img src="https://img.shields.io/badge/Data%20Extraction-008080.svg?style=plastic&logo=web&logoColor=white" alt="Web Scraping">
+</div>
 
 
 <div style="line-height:30%;">

@@ -22,10 +22,6 @@
 <div style="text-align: justify">
 This project provides a Python tool to automate the scraping of raw financial data from the Indonesia Stock Exchange (IDX). It eliminates tedious manual data collection for investors, analysts, and researchers by delivering the information in a ready-to-use Excel format for immediate analysis. See result examples <a href="https://github.com/Rachdyan/idx_financial_report/tree/main/result">here</a>.
 </div>
-<br>
-
-
-
 
 <center><img src="images/financial_report_example0.png"/></center> 
 <center><span style='font-size:30px;'>&#8595;</span></center>

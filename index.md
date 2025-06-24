@@ -3,16 +3,15 @@
 ## Data Extraction & Processing
 
 ### IDX Financial Report Extractor
-
+<div>
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=plastic&logo=Python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/Data%20Extraction-008080.svg?style=plastic&logo=Power%20Automate&logoColor=white" alt="Automation">
 <img src="https://img.shields.io/badge/Web%20Scraping-008080.svg?style=plastic&logo=web&logoColor=white" alt="Web Scraping">
 <img src="https://img.shields.io/badge/Finance-008080.svg?style=plastic&logo=Google%20Finance&logoColor=white" alt="Finance">
-
+</div>
 <div style="line-height:30%;">
     <br>
 </div>
-
 
 <div style="line-height:30%;">
     <br>

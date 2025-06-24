@@ -13,14 +13,14 @@
     <br>
 </div>
 
-<div style="line-height:30%;">
-    <br>
-</div>
-
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Rachdyan/idx_financial_report) 
 
 <div style="text-align: justify">
 This project provides a Python tool to automate the scraping of raw financial data from the Indonesia Stock Exchange (IDX). It eliminates tedious manual data collection for investors, analysts, and researchers by delivering the information in a ready-to-use Excel format for immediate analysis. See result examples <a href="https://github.com/Rachdyan/idx_financial_report/tree/main/result">here</a>.
+</div>
+
+<div style="line-height:50%;">
+    <br>
 </div>
 
 <center><img src="images/financial_report_example0.png"/></center> 

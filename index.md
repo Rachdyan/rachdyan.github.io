@@ -19,13 +19,17 @@
 This project provides a Python tool to automate the scraping of raw financial data from the Indonesia Stock Exchange (IDX). It eliminates tedious manual data collection for investors, analysts, and researchers by delivering the information in a ready-to-use Excel format for immediate analysis. See result examples <a href="https://github.com/Rachdyan/idx_financial_report/tree/main/result">here</a>.
 </div>
 
-<div style="line-height:50%;">
+<div style="line-height:100%;">
     <br>
 </div>
 
 <center><img src="images/financial_report_example0.png"/></center> 
 <center><span style='font-size:30px;'>&#8595;</span></center>
 <center><img src="images/financial_report_example1.png"/></center>   
+
+<div style="line-height:100%;">
+    <br>
+</div>
 
 ---
 ### IDX Company Disclosure Summarizer
@@ -46,11 +50,16 @@ This project provides a Python tool to automate the scraping of raw financial da
 This project automates intelligence gathering from the Indonesia Stock Exchange (IDX). It continuously monitors for new company disclosures every few hours, uses AI to generate concise summaries of the documents, and delivers these key insights directly to users via a Telegram Bot. This provides a timely source for trading ideas and allows for rapid analysis of market-moving news.
 </div>
 <br>
-
+<div style="line-height:100%;">
+    <br>
+</div>
 <center><img src="images/ktbknidx1.png"/></center> 
 <center><span style='font-size:30px;'>&#8595;</span></center>
 <center><img src="images/ktbknidx2.png"/></center>   
 
+<div style="line-height:100%;">
+    <br>
+</div>
 
 ---
 ### Facebook Marketplace Deals Finder
@@ -71,7 +80,9 @@ This project automates intelligence gathering from the Indonesia Stock Exchange 
 Tired of manually refreshing Facebook Marketplace and missing out on the best bargains? This project deploys a sophisticated automated tool to hunt for deals on your behalf. It leverages advanced techniques to programmatically handle 2FA logins and bypass CAPTCHA challenges, ensuring consistent, uninterrupted access to the platform. Once running, the tool monitors the marketplace daily for products matching your predefined criteria and price range, instantly forwarding new deals to you via a Telegram bot.
 </div>
 
-<br>
+<div style="line-height:100%;">
+    <br>
+</div>
 
 <center><img src="images/fb1.png"/></center> 
 <center><span style='font-size:30px;'>&#8595;</span></center>
@@ -95,9 +106,16 @@ Tired of manually refreshing Facebook Marketplace and missing out on the best ba
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Rachdyan/geosains_job_bot)
 
 <div style="text-align: justify">This tool automates the job hunt for geoscientists by scraping top job boards like Indeed, LinkedIn, and Jobstreet for relevant roles. It then consolidates all openings in geology, geophysics, and engineering, and broadcasts them to the dedicated Loker Geosains Telegram channel.</div>
-<br>
+
+<div style="line-height:100%;">
+    <br>
+</div>
+
 <center><img src="images/lokergeosains.png"/></center>
-<br>
+
+<div style="line-height:100%;">
+    <br>
+</div>
 
 ---
 
@@ -118,10 +136,18 @@ Tired of manually refreshing Facebook Marketplace and missing out on the best ba
 <div style="text-align: justify">
 This R project automates the extraction of data on African Senior High Schools from complex PDF files published by <a href="https://africaeducationwatch.org/emis-data-shs-reports">Africa Education Watch</a>. Using the pdftools and tabulizer libraries, it parses the unstructured reports and outputs the information into clean Excel spreadsheets, ready for analysis.
 </div>
-<br>
+
+<div style="line-height:100%;">
+    <br>
+</div>
+
 <center><img src="images/shs0.png"/></center> 
 <center><span style='font-size:30px;'>&#8595;</span></center>
 <center><img src="images/shs1.png"/></center>   
+
+<div style="line-height:100%;">
+    <br>
+</div>
 
 ---
 
@@ -142,8 +168,16 @@ This R project automates the extraction of data on African Senior High Schools f
 <div style="text-align: justify">
 This project transforms raw LCA disclosure data from the <a href="https://www.dol.gov/agencies/eta/foreign-labor/performance">U.S. Department of Labor</a> into a high-quality, actionable dataset. It standardizes employer names by removing legal suffixes, uses fuzzy matching to fix typos in company and contact information, and filters out contacts with generic or personal emails to isolate key decision-makers. The final output is a clean, de-duplicated list of companies and their contacts, complete with aggregated summaries of their total visa filings.
 </div>
-<br>
+
+<div style="line-height:100%;">
+    <br>
+</div>
+
 <center><img src="images/lca.png"/></center> 
+
+<div style="line-height:100%;">
+    <br>
+</div>
 
 ---
 

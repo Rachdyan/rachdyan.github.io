@@ -49,7 +49,6 @@ This project provides a Python tool to automate the scraping of raw financial da
 <div style="text-align: justify">
 This project automates intelligence gathering from the Indonesia Stock Exchange (IDX). It continuously monitors for new company disclosures every few hours, uses AI to generate concise summaries of the documents, and delivers these key insights directly to users via a Telegram Bot. This provides a timely source for trading ideas and allows for rapid analysis of market-moving news.
 </div>
-<br>
 <div style="line-height:100%;">
     <br>
 </div>
@@ -181,43 +180,104 @@ This project transforms raw LCA disclosure data from the <a href="https://www.do
 
 ---
 
+### 99acres Scraper
+<div>
+<img src="https://img.shields.io/badge/R-%23276DC3.svg?style=plastic&logo=R&logoColor=white" alt="R">
+<img src="https://img.shields.io/badge/Web%20Scraping-008080.svg?style=plastic&logo=Power%20Automate&logoColor=white" alt="Web Scraping">
+<img src="https://img.shields.io/badge/Data%20Cleaning-008080.svg?style=plastic&logo=Power%20Automate&logoColor=white" alt="Data Cleaning">
+<img src="https://img.shields.io/badge/Data%20Extraction-008080.svg?style=plastic&logo=web&logoColor=white" alt="Web Scraping">
+</div>
+
+
+<div style="line-height:30%;">
+    <br>
+</div>
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Rachdyan/african-shs-data-extraction)
+
+<div style="text-align: justify">
+An R project to scrape property listings from 99acres.com that allows users to build custom search queries based on property type, location, and price, supports proxies, handles pagination, and extracts detailed information for each listing into a clean Excel file.
+</div>
+
+<div style="line-height:100%;">
+    <br>
+</div>
+
+<center><img src="images/99acres0.png"/></center> 
+<center><span style='font-size:30px;'>&#8595;</span></center>
+<center><img src="images/99acres1.png"/></center>   
+
+<div style="line-height:100%;">
+    <br>
+</div>
+
+---
+
 ## Data Dashboard & Application
 
-### Credit Risk Prediction Web App
+### USA Mining Bond Exposure Map
+<div>
+<img src="https://img.shields.io/badge/R-%23276DC3.svg?style=plastic&logo=R&logoColor=white" alt="R">
+<img src="https://img.shields.io/badge/Geospatial-008080.svg?style=plastic&logo=Power%20Automate&logoColor=white" alt="Web Scraping">
+<img src="https://img.shields.io/badge/Interactive%20Maps-008080.svg?style=plastic&logo=Power%20Automate&logoColor=white" alt="Data Cleaning">
+<img src="https://img.shields.io/badge/Dashboard-008080.svg?style=plastic&logo=web&logoColor=white" alt="Web Scraping">
+</div>
+<div style="line-height:30%;">
+    <br>
+</div>
 
-[![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](http://credit-risk.herokuapp.com/)
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/chriskhanhtran/credit-risk-prediction/blob/master/documents/Notebook.ipynb)
+[![](https://img.shields.io/badge/Shiny-shinyapps.io-447099"?style=flat&labelColor=gray&logo=Posit&logoColor=447099")](https://rachdyan.shinyapps.io/mining_bond_map/)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/credit-risk-prediction)
 
-<div style="text-align: justify">After my team preprocessed a dataset of 10K credit applications and built machine learning models to predict credit default risk, I built an interactive user interface with Streamlit and hosted the web app on Heroku server.</div>
+<div style="text-align: justify">An interactive R Shiny web application that visualizes mining reclamation bond exposure across the USA, allowing users to filter and explore data by state and commodity type on an interactive map.</div>
 <br>
-<center><img src="images/credit-risk-webapp.png"/></center>
-<br>
-
----
-### Kaggle Competition: Predict Ames House Price using Lasso, Ridge, XGBoost and LightGBM
-
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ames-house-price.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/kaggle-house-price/blob/master/ames-house-price.ipynb)
-
-<div style="text-align: justify">I performed comprehensive EDA to understand important variables, handled missing values, outliers, performed feature engineering, and ensembled machine learning models to predict house prices. My best model had Mean Absolute Error (MAE) of 12293.919, ranking <b>95/15502</b>, approximately <b>top 0.6%</b> in the Kaggle leaderboard.</div>
-<br>
-<center><img src="images/ames-house-price.jpg"/></center>
+<center><img src="images/bond_map.gif"/></center>
 <br>
 
 ---
-### Predict Breast Cancer with RF, PCA and SVM using Python
+### Insurance Companies Comparison Dashboard
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/breast-cancer.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/predict-breast-cancer-with-rf-pca-svm/blob/master/breast-cancer.ipynb)
+<div>
+<img src="https://img.shields.io/badge/R-%23276DC3.svg?style=plastic&logo=R&logoColor=white" alt="R">
+<img src="https://img.shields.io/badge/Data Visualization-008080.svg?style=plastic&logo=Power%20Automate&logoColor=white" alt="Web Scraping">
+<img src="https://img.shields.io/badge/Interactive%20Dashboard-008080.svg?style=plastic&logo=Power%20Automate&logoColor=white" alt="Data Cleaning">
+</div>
+<div style="line-height:30%;">
+    <br>
+</div>
 
-<div style="text-align: justify">In this project I am going to perform comprehensive EDA on the breast cancer dataset, then transform the data using Principal Components Analysis (PCA) and use Support Vector Machine (SVM) model to predict whether a patient has breast cancer.</div>
+[![](https://img.shields.io/badge/Shiny-shinyapps.io-447099"?style=flat&labelColor=gray&logo=Posit&logoColor=447099")](https://rnaufal.shinyapps.io/insurance_dashboard/)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Rachdyan/insurance_dashboard)
+
+
+<div style="text-align: justify">An interactive R Shiny dashboard that provides a comprehensive analysis of the insurance market by allowing users to compare and visualize key financial and operational metrics—such as premiums, losses, and policy counts—across Insurance Groups, Firms, and MGAs, and then export the custom analysis to PDF and Excel.</div>
 <br>
-<center><img src="images/breast-cancer.png"/></center>
+<center><img src="images/insurance.gif"/></center>
 <br>
 
 ---
-### Business Analytics Conference 2018: How is NYC's Government Using Money?
+### Geology Rock Sample Dashboard
+
+<div>
+<img src="https://img.shields.io/badge/R-%23276DC3.svg?style=plastic&logo=R&logoColor=white" alt="R">
+<img src="https://img.shields.io/badge/Geology-008080.svg?style=plastic&logo=Power%20Automate&logoColor=white" alt="Data Cleaning">
+<img src="https://img.shields.io/badge/Data Visualization-008080.svg?style=plastic&logo=Power%20Automate&logoColor=white" alt="Web Scraping">
+<img src="https://img.shields.io/badge/Interactive%20Dashboard-008080.svg?style=plastic&logo=Power%20Automate&logoColor=white" alt="Data Cleaning">
+</div>
+<div style="line-height:30%;">
+    <br>
+</div>
+
+[![](https://img.shields.io/badge/Shiny-shinyapps.io-447099"?style=flat&labelColor=gray&logo=Posit&logoColor=447099")](https://rnaufal.shinyapps.io/insurance_dashboard/)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://rachdyan.shinyapps.io/analysis_geological_data/)
+
+<div style="text-align: justify">This interactive R Shiny dashboard provides a comprehensive multi-tab suite for exploring geological rock sample data. It features seven distinct analyses, such as particle screen sizing, elemental grade, and X-ray results, each with dynamic filtering. All visualizations are highly interactive, allowing users to hover for details and zoom on areas of interest within a clean, modern interface.</div>
+<br>
+<center><img src="images/geology_sample.gif"/></center>
+<br>
+
+---
+### ITB Digital Library Downloader Apps
 
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
 
@@ -227,7 +287,10 @@ This project transforms raw LCA disclosure data from the <a href="https://www.do
 <br>
 
 ---
-## Filmed by me
+## Data Visualization
+
+### ESG Data Visualization using Python
+
 
 [![View My Films](https://img.shields.io/badge/YouTube-View_My_Films-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/watch?v=vfZwdEWgUPE)
 
@@ -240,4 +303,4 @@ This project transforms raw LCA disclosure data from the <a href="https://www.do
 - [In America - We Call This Place Our Home (Massachusetts)](https://www.youtube.com/watch?v=jzfcM_iO0FU)
 
 ---
-<center>© 2020 Khanh Tran. Powered by Jekyll and the Minimal Theme.</center>
+<center>© 2025 Rachdyan Naufal. Powered by Jekyll and the Minimal Theme.</center>

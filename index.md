@@ -16,7 +16,7 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Rachdyan/idx_financial_report) 
 
 <div style="text-align: justify">
-This project provides a Python tool to automate the scraping of raw financial data from the Indonesia Stock Exchange (IDX). It eliminates tedious manual data collection for investors, analysts, and researchers by delivering the information in a ready-to-use Excel format for immediate analysis. See result examples <a href="https://github.com/Rachdyan/idx_financial_report/tree/main/result">here</a>.
+This project provides a Python tool to automate the scraping of raw financial data from the Indonesia Stock Exchange (IDX). It eliminates tedious manual data collection for investors, analysts, and researchers by delivering the information in a ready-to-use Excel format for immediate analysis. See result examples <a href="https://github.com/Rachdyan/idx_financial_report/tree/main/result" target="_blank">here</a>.
 </div>
 
 <div style="line-height:100%;">
@@ -279,11 +279,21 @@ An R project to scrape property listings from 99acres.com that allows users to b
 ---
 ### ITB Digital Library Downloader Apps
 
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
+<div>
+<img src="https://img.shields.io/badge/R-%23276DC3.svg?style=plastic&logo=R&logoColor=white" alt="R">
+<img src="https://img.shields.io/badge/Data%20Extraction-008080.svg?style=plastic&logo=Power%20Automate&logoColor=white" alt="Data Cleaning">
+<img src="https://img.shields.io/badge/Web Scraping-008080.svg?style=plastic&logo=Power%20Automate&logoColor=white" alt="Web Scraping">
+<img src="https://img.shields.io/badge/Interactive%20Application-008080.svg?style=plastic&logo=Power%20Automate&logoColor=white" alt="Data Cleaning">
+</div>
+<div style="line-height:30%;">
+    <br>
+</div>
 
-<div style="text-align: justify">In three-month research and a two-day hackathon, I led a team of four students to discover insights from 6 million records of NYC and Boston government spending data sets and won runner-up prize for the best research poster out of 18 participating colleges.</div>
+[![](https://img.shields.io/badge/Shiny-shinyapps.io-447099"?style=flat&labelColor=gray&logo=Posit&logoColor=447099")](https://rachdyan.shinyapps.io/Digilib_ITB_Downloader/)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Rachdyan/digilib-itb-downloader)
+<div style="text-align: justify">An R Shiny app designed to solve the challenges of downloading publications from the <a href="https://digilib.itb.ac.id/" target="_blank">ITB Digital Library</a>, where documents are split into multiple chapters and the direct download link for each part is hidden. After a user pastes a single URL, the app automatically scrapes all hidden chapter links, merges them with a cloud API, and provides a single download link for the complete document.</div>
 <br>
-<center><img src="images/bac2018.JPG"/></center>
+<center><img src="images/digilib_itb.gif"/></center>
 <br>
 
 ---
@@ -296,11 +306,74 @@ An R project to scrape property listings from 99acres.com that allows users to b
 
 <div style="text-align: justify">Besides Data Science, I also have a great passion for photography and videography. Below is a list of films I documented to retain beautiful memories of places I traveled to and amazing people I met on the way.</div>
 <br>
-
-- [Ada Von Weiss - You Regret (Winter at Niagara)](https://www.youtube.com/watch?v=-5esqvmPnHI)
-- [The Weight We Carry is Love - TORONTO](https://www.youtube.com/watch?v=vfZwdEWgUPE)
-- [In America - Boston 2017](https://www.youtube.com/watch?v=YdXufiebgyc)
-- [In America - We Call This Place Our Home (Massachusetts)](https://www.youtube.com/watch?v=jzfcM_iO0FU)
+<div style="text-align: justify">Besides Data Science, I also have a great passion for photography and videography. Below is a list of films I documented to retain beautiful memories of places I traveled to and amazing people I met on the way.</div>
+<br>
+<table style="width:100%; border-collapse: collapse;">
+  <tr>
+    <td style="padding:10px; text-align:center;">
+      <img src="images/dataviz1.png" alt="Description of image 1" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
+    </td>
+    <td style="padding:10px; text-align:center;">
+      <img src="images/dataviz2.png" alt="Description of image 2" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
+    </td>
+  </tr>
+  <tr>
+    <td style="padding:10px; text-align:center;">
+      <img src="images/dataviz3.png" alt="Description of image 3" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
+    </td>
+    <td style="padding:10px; text-align:center;">
+      <img src="images/dataviz4.png" alt="Description of image 4" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
+    </td>
+  </tr>
+  <tr>
+    <td style="padding:10px; text-align:center;">
+      <img src="images/dataviz5.png" alt="Description of image 5" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
+    </td>
+    <td style="padding:10px; text-align:center;">
+      <img src="images/dataviz3.png" alt="Description of image 6" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
+    </td>
+  </tr>
+  <tr>
+    <td style="padding:10px; text-align:center;">
+      <img src="images/dataviz7.png" alt="Description of image 7" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
+    </td>
+    <td style="padding:10px; text-align:center;">
+      <img src="images/dataviz8.png" alt="Description of image 8" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
+    </td>
+  </tr>
+  <tr>
+    <td style="padding:10px; text-align:center;">
+      <img src="images/dataviz12.png" alt="Description of image 9" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
+    </td>
+    <td style="padding:10px; text-align:center;">
+      <img src="images/dataviz10.png" alt="Description of image 10" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
+    </td>
+  </tr>
+  <tr>
+    <td style="padding:10px; text-align:center;">
+      <img src="images/dataviz11.png" alt="Description of image 11" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
+    </td>
+    <td style="padding:10px; text-align:center;">
+      <img src="images/dataviz9.png" alt="Description of image 12" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
+    </td>
+  </tr>
+  <tr>
+    <td style="padding:10px; text-align:center;">
+      <img src="images/dataviz13.png" alt="Description of image 13" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
+    </td>
+    <td style="padding:10px; text-align:center;">
+      <img src="images/dataviz14.png" alt="Description of image 14" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
+    </td>
+  </tr>
+  <tr>
+    <td style="padding:10px; text-align:center;">
+      <img src="images/dataviz15.png" alt="Description of image 15" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
+    </td>
+    <td style="padding:10px; text-align:center;">
+      <img src="images/dataviz16.png" alt="Description of image 16" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
+    </td>
+  </tr>
+</table>
 
 ---
 <center>© 2025 Rachdyan Naufal. Powered by Jekyll and the Minimal Theme.</center>

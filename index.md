@@ -311,7 +311,7 @@ An R project to scrape property listings from 99acres.com that allows users to b
 </div>
 
 
-<div style="text-align: justify">This project transforms complex ESG data—including GHG Emissions, EU Taxonomy, and emission reduction targets—into insightful and dynamic visualizations. The core objective is to create visually stunning dashboards that are both engaging and immediately understandable, ensuring that intricate sustainability information is presented with absolute clarity. The entire pipeline, from processing raw data to generating the final plots, is executed exclusively using Python.</div>
+<div style="text-align: justify">This project transforms complex ESG data—including GHG Emissions, EU Taxonomy, and emission reduction targets—into insightful visualizations. The core objective is to create visually stunning dashboards that are both engaging and immediately understandable, ensuring that intricate sustainability information is presented with absolute clarity. The entire pipeline, from processing raw data to generating the final plots, is executed exclusively using Python.</div>
 <br>
 <table style="width:100%; border-collapse: collapse; table-layout: fixed;">
   <tr>

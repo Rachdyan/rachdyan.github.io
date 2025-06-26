@@ -345,8 +345,8 @@ An R project to scrape property listings from 99acres.com that allows users to b
       </a>
     </td>
     <td style="width: 50%; padding: 10px; text-align:center;">
-      <a href="https://rachdyan.github.io/images/dataviz3.png" target="_blank" rel="noopener noreferrer">
-        <img src="images/dataviz3.png" alt="Description of image 6" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
+      <a href="https://rachdyan.github.io/images/dataviz6.png" target="_blank" rel="noopener noreferrer">
+        <img src="images/dataviz6.png" alt="Description of image 6" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
       </a>
     </td>
   </tr>

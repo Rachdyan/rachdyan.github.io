@@ -310,76 +310,106 @@ An R project to scrape property listings from 99acres.com that allows users to b
     <br>
 </div>
 
-<div style="text-align: justify">Besides Data Science, I also have a great passion for photography and videography. Below is a list of films I documented to retain beautiful memories of places I traveled to and amazing people I met on the way.</div>
+
+<div style="text-align: justify">This project transforms complex ESG data—including GHG Emissions, EU Taxonomy, and emission reduction targets—into insightful and dynamic visualizations. The core objective is to create visually stunning dashboards that are both engaging and immediately understandable, ensuring that intricate sustainability information is presented with absolute clarity. The entire pipeline, from processing raw data to generating the final plots, is executed exclusively using Python.</div>
 <br>
-<div style="text-align: justify">Besides Data Science, I also have a great passion for photography and videography. Below is a list of films I documented to retain beautiful memories of places I traveled to and amazing people I met on the way.</div>
-<br>
-<table style="width:100%; border-collapse: collapse;">
+<table style="width:100%; border-collapse: collapse; table-layout: fixed;">
   <tr>
-    <td style="padding:10px; text-align:center;">
-      <img src="images/dataviz1.png" alt="Description of image 1" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
+    <td style="width: 50%; padding: 10px; text-align:center;">
+      <a href="https://rachdyan.github.io/images/dataviz1.png" target="_blank" rel="noopener noreferrer">
+        <img src="images/dataviz1.png" alt="Description of image 1" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
+      </a>
     </td>
-    <td style="padding:10px; text-align:center;">
-      <img src="images/dataviz2.png" alt="Description of image 2" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
+    <td style="width: 50%; padding: 10px; text-align:center;">
+      <a href="https://rachdyan.github.io/images/dataviz2.png" target="_blank" rel="noopener noreferrer">
+        <img src="images/dataviz2.png" alt="Description of image 2" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
+      </a>
     </td>
   </tr>
   <tr>
-    <td style="padding:10px; text-align:center;">
-      <img src="images/dataviz3.png" alt="Description of image 3" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
+    <td style="width: 50%; padding: 10px; text-align:center;">
+      <a href="https://rachdyan.github.io/images/dataviz3.png" target="_blank" rel="noopener noreferrer">
+        <img src="images/dataviz3.png" alt="Description of image 3" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
+      </a>
     </td>
-    <td style="padding:10px; text-align:center;">
-      <img src="images/dataviz4.png" alt="Description of image 4" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
-    </td>
-  </tr>
-  <tr>
-    <td style="padding:10px; text-align:center;">
-      <img src="images/dataviz5.png" alt="Description of image 5" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
-    </td>
-    <td style="padding:10px; text-align:center;">
-      <img src="images/dataviz3.png" alt="Description of image 6" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
+    <td style="width: 50%; padding: 10px; text-align:center;">
+      <a href="https://rachdyan.github.io/images/dataviz4.png" target="_blank" rel="noopener noreferrer">
+        <img src="images/dataviz4.png" alt="Description of image 4" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
+      </a>
     </td>
   </tr>
   <tr>
-    <td style="padding:10px; text-align:center;">
-      <img src="images/dataviz7.png" alt="Description of image 7" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
+    <td style="width: 50%; padding: 10px; text-align:center;">
+      <a href="https://rachdyan.github.io/images/dataviz5.png" target="_blank" rel="noopener noreferrer">
+        <img src="images/dataviz5.png" alt="Description of image 5" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
+      </a>
     </td>
-    <td style="padding:10px; text-align:center;">
-      <img src="images/dataviz8.png" alt="Description of image 8" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
-    </td>
-  </tr>
-  <tr>
-    <td style="padding:10px; text-align:center;">
-      <img src="images/dataviz12.png" alt="Description of image 9" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
-    </td>
-    <td style="padding:10px; text-align:center;">
-      <img src="images/dataviz10.png" alt="Description of image 10" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
+    <td style="width: 50%; padding: 10px; text-align:center;">
+      <a href="https://rachdyan.github.io/images/dataviz3.png" target="_blank" rel="noopener noreferrer">
+        <img src="images/dataviz3.png" alt="Description of image 6" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
+      </a>
     </td>
   </tr>
   <tr>
-    <td style="padding:10px; text-align:center;">
-      <img src="images/dataviz11.png" alt="Description of image 11" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
+    <td style="width: 50%; padding: 10px; text-align:center;">
+      <a href="https://rachdyan.github.io/images/dataviz7.png" target="_blank" rel="noopener noreferrer">
+        <img src="images/dataviz7.png" alt="Description of image 7" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
+      </a>
     </td>
-    <td style="padding:10px; text-align:center;">
-      <img src="images/dataviz9.png" alt="Description of image 12" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
-    </td>
-  </tr>
-  <tr>
-    <td style="padding:10px; text-align:center;">
-      <img src="images/dataviz13.png" alt="Description of image 13" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
-    </td>
-    <td style="padding:10px; text-align:center;">
-      <img src="images/dataviz14.png" alt="Description of image 14" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
+    <td style="width: 50%; padding: 10px; text-align:center;">
+      <a href="https://rachdyan.github.io/images/dataviz8.png" target="_blank" rel="noopener noreferrer">
+        <img src="images/dataviz8.png" alt="Description of image 8" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
+      </a>
     </td>
   </tr>
   <tr>
-    <td style="padding:10px; text-align:center;">
-      <img src="images/dataviz15.png" alt="Description of image 15" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
+    <td style="width: 50%; padding: 10px; text-align:center;">
+      <a href="https://rachdyan.github.io/images/dataviz12.png" target="_blank" rel="noopener noreferrer">
+        <img src="images/dataviz12.png" alt="Description of image 9" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
+      </a>
     </td>
-    <td style="padding:10px; text-align:center;">
-      <img src="images/dataviz16.png" alt="Description of image 16" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
+    <td style="width: 50%; padding: 10px; text-align:center;">
+      <a href="https://rachdyan.github.io/images/dataviz10.png" target="_blank" rel="noopener noreferrer">
+        <img src="images/dataviz10.png" alt="Description of image 10" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 50%; padding: 10px; text-align:center;">
+      <a href="https://rachdyan.github.io/images/dataviz11.png" target="_blank" rel="noopener noreferrer">
+        <img src="images/dataviz11.png" alt="Description of image 11" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
+      </a>
+    </td>
+    <td style="width: 50%; padding: 10px; text-align:center;">
+      <a href="https://rachdyan.github.io/images/dataviz9.png" target="_blank" rel="noopener noreferrer">
+        <img src="images/dataviz9.png" alt="Description of image 12" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 50%; padding: 10px; text-align:center;">
+      <a href="https://rachdyan.github.io/images/dataviz13.png" target="_blank" rel="noopener noreferrer">
+        <img src="images/dataviz13.png" alt="Description of image 13" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
+      </a>
+    </td>
+    <td style="width: 50%; padding: 10px; text-align:center;">
+      <a href="https://rachdyan.github.io/images/dataviz14.png" target="_blank" rel="noopener noreferrer">
+        <img src="images/dataviz14.png" alt="Description of image 14" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 50%; padding: 10px; text-align:center;">
+      <a href="https://rachdyan.github.io/images/dataviz15.png" target="_blank" rel="noopener noreferrer">
+        <img src="images/dataviz15.png" alt="Description of image 15" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
+      </a>
+    </td>
+    <td style="width: 50%; padding: 10px; text-align:center;">
+      <a href="https://rachdyan.github.io/images/dataviz16.png" target="_blank" rel="noopener noreferrer">
+        <img src="images/dataviz16.png" alt="Description of image 16" style="width:100%; height:auto; display:block; margin:auto; border:1px solid #ddd;">
+      </a>
     </td>
   </tr>
 </table>
-
 ---
 <center>© 2025 Rachdyan Naufal. Powered by Jekyll and the Minimal Theme.</center>

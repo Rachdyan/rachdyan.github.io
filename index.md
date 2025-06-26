@@ -300,9 +300,15 @@ An R project to scrape property listings from 99acres.com that allows users to b
 ## Data Visualization
 
 ### ESG Data Visualization using Python
+<div>
+<img src="https://img.shields.io/badge/Python-3776AB.svg?style=plastic&logo=Python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Data%20Visualitzation-008080.svg?style=plastic&logo=Power%20Automate&logoColor=white" alt="Automation">
+<img src="https://img.shields.io/badge/ESG%20-008080.svg?style=plastic&logo=web&logoColor=white" alt="Web Scraping">
+<img src="https://img.shields.io/badge/Sustainability-008080.svg?style=plastic&logo=Google%20Finance&logoColor=white" alt="Finance">
 
-
-[![View My Films](https://img.shields.io/badge/YouTube-View_My_Films-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/watch?v=vfZwdEWgUPE)
+<div style="line-height:100%;">
+    <br>
+</div>
 
 <div style="text-align: justify">Besides Data Science, I also have a great passion for photography and videography. Below is a list of films I documented to retain beautiful memories of places I traveled to and amazing people I met on the way.</div>
 <br>
